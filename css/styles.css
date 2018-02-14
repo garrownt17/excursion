@@ -30,4 +30,7 @@ footer	{
 	color: gray;
 }
 
-footer p {font-size: 15px;}
+footer p {
+	font-size: 15px; 
+	text-align: center;
+}
